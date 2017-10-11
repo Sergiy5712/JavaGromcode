@@ -1,6 +1,7 @@
 package lesson6;
 
 public class Car {
+    //git test
 
     //1 fields
     int price;
